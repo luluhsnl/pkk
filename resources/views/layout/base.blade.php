@@ -24,8 +24,6 @@
   <script defer data-site="YOUR_DOMAIN_HERE" src="https://api.nepcha.com/js/nepcha-analytics.js"></script>
 </head>
 
-@include('component.navbar')
-
     @yield('content')
     <!--   Core JS Files   -->
   <script src="../assets/js/core/popper.min.js"></script>

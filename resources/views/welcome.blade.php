@@ -8,7 +8,7 @@
       <i class="fas fa-times p-3 cursor-pointer text-secondary opacity-5 position-absolute end-0 top-0 d-none d-xl-none" aria-hidden="true" id="iconSidenav"></i>
       <a class="navbar-brand m-0" href=" https://demos.creative-tim.com/soft-ui-dashboard/pages/dashboard.html " target="_blank">
         <img src="../assets/img/logo-ct-dark.png" class="navbar-brand-img h-100" alt="main_logo">
-        <span class="ms-1 font-weight-bold">Soft UI Dashboard</span>
+        <span class="ms-1 font-weight-bold">PELANGGARAN SISWA</span>
       </a>
     </div>
     <hr class="horizontal dark mt-0">
@@ -420,7 +420,7 @@
                 <div class="col-lg-6">
                   <div class="d-flex flex-column h-100">
                     <p class="mb-1 pt-2 text-bold">Built by developers</p>
-                    <h5 class="font-weight-bolder">Soft UI Dashboard</h5>
+                    <h5 class="font-weight-bolder">PELANGGARAN SISWA </h5>
                     <p class="mb-5">From colors, cards, typography to complex elements, you will find the full documentation.</p>
                     <a class="text-body text-sm font-weight-bold mb-0 icon-move-right mt-auto" href="javascript:;">
                       Read More
@@ -975,8 +975,8 @@
     </a>
     <div class="card shadow-lg ">
       <div class="card-header pb-0 pt-3 ">
-        <div class="float-start">
-          <h5 class="mt-3 mb-0">Soft UI Configurator</h5>
+        <div class="float-start">PELANGGARAN SISWA
+          <h5 class="mt-3 mb-0"></h5>
           <p>See our dashboard options.</p>
         </div>
         <div class="float-end mt-4">
